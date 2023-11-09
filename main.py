@@ -1,0 +1,1 @@
+input.calibrate_compass()
